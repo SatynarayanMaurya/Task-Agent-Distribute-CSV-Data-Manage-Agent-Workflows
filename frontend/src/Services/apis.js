@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000"
+const BASE_URL = "https://task-agent-distribute-csv-data-manage.onrender.com"
 
 
 export const authEndpoints = {
